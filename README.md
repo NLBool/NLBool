@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nicole
+- 🌱 I’m currently learning Python3
+- Currently a physical therapist 
