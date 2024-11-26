@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Nicole
-- 🌱 I’m currently learning Python3
+- 🌱 I’m currently learning Python
